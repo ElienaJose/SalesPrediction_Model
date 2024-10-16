@@ -40,18 +40,18 @@ Results:
 The performance of the regression models was evaluated using Mean Squared Error (MSE) and R² Score for both ordinal and one-hot encoding techniques.
 
 Model Performance (Ordinal Encoding):
-Random Forest
-MSE: 1,315,355.45
+Random Forest:
+MSE: 1,315,355.45,
 R² Score: 0.5506
-Linear Regression
-MSE: 1,426,176.83
+Linear Regression:
+MSE: 1,426,176.83,
 R² Score: 0.5127
 Model Performance (One-Hot Encoding):
-Random Forest
-MSE: 1,296,817.43
+Random Forest:
+MSE: 1,296,817.43,
 R² Score: 0.5569
-Linear Regression
-MSE: 1,283,097.67
+Linear Regression:
+MSE: 1,283,097.67,
 R² Score: 0.5616
 
 Summary:
