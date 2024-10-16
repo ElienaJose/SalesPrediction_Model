@@ -31,7 +31,7 @@ Encoding Categorical Variables: Used one-hot encoding and ordinal encoding for c
 
 Model Training and Evaluation:
 Trained different regression models:
-Linear Regression
+Linear Regression,
 Random Forest Regressor
 
 Evaluation Metrics: Used MSE and R2 Score to evaluate the performance of the models.
